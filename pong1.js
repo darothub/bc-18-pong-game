@@ -11,7 +11,7 @@ var height = 500;
 canvas.width = width;
 canvas.height = height;
 
-var you = prompt("Welcome! Please whats your name?")
+var you = prompt("Welcome! /n Please whats your name?")
 
 window.onload = function(){
 
